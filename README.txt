@@ -1,0 +1,1 @@
+AdventureSpot is a place, where travelers could share their journeys, routes, stories, videos and photos.
