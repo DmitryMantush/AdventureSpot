@@ -16,6 +16,7 @@ class PostListView(ListView):
     template_name = 'advspot/home.html'
     context_object_name = 'posts'
     ordering = ['-date_posted']
+    paginate_by = 8
 
 
 class PostDetailView(DetailView):
